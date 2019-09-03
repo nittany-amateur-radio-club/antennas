@@ -191,7 +191,6 @@ knitr::include_graphics("img/2019-08-27-wa3enk/Club_Tri_80_4.pdf")
 
 ## VHF (WA3ENK)
 
-
 ```{r}
 knitr::include_graphics("img/2019-08-27-wa3enk/Club_VHF_1.pdf")
 ```
